@@ -1,6 +1,6 @@
 {
   "name": "comment-toggle-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Webpack loader for toggling javascript comment",
   "main": "index.js",
   "scripts": {
