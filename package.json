@@ -1,0 +1,29 @@
+{
+  "name": "comment-toggle-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for toggling javascript comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icefox0801/comment-toggle-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "toggle",
+    "comment",
+    "javascript"
+  ],
+  "author": "icefox0801 <icefox0801@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icefox0801/comment-toggle-loader/issues"
+  },
+  "homepage": "https://github.com/icefox0801/comment-toggle-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
