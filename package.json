@@ -25,5 +25,11 @@
   "homepage": "https://github.com/icefox0801/comment-toggle-loader#readme",
   "dependencies": {
     "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
   }
 }
